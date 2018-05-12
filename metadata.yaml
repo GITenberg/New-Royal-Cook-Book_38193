@@ -1,0 +1,29 @@
+_repo: New-Royal-Cook-Book_38193
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38193-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Royal Baking Powder Company
+    aliases:
+    - Royal Baking Powder Co.
+    - Royal Baking Powder Company, New York
+    gutenberg_agent_id: '5666'
+    url: http://www.gutenberg.org/2009/agents/5666
+description: ''
+gutenberg_issued: '2011-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+- !lcsh 'Baking'
+- !lcsh 'Pastry'
+title: New Royal Cook Book
+url: http://www.gutenberg.org/ebooks/38193
